@@ -1,1 +1,2 @@
-
+This repository contains code to: 
+1) setup the tensorflow imagenet classifier which is capable of identifying 1000 objects.
